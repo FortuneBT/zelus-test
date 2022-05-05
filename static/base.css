@@ -1,0 +1,24 @@
+
+
+
+html , .main {
+    color :white;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(17,50,101,1) 0%, rgba(31,85,117,1) 0%, rgba(0,16,38,1) 100%); 
+}
+
+.first-card {
+    background-color: rgba(255,255,255,0.6);
+    color : black;
+    width: 40%;
+    margin: 50px;
+    padding:40px;
+    border-radius: 10px;
+}
+
+.first-title {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    color:rgb(8, 60, 143);
+}
