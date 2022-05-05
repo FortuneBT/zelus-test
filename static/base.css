@@ -22,3 +22,24 @@ html , .main {
     padding: 10px;
     color:rgb(8, 60, 143);
 }
+
+.main-test {
+    width: 50%;
+}
+
+.image-backgroud {
+    background-color: white;
+    height : 500px;
+    width: 400px;
+    margin:10px;
+}
+
+.image-border {
+    outline:5px solid white;
+}
+
+.test-section-below{
+    display:grid;
+    gap:2rem;
+    grid-template-columns:repeat(2,1fr);
+}
