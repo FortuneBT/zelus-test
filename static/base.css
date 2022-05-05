@@ -25,6 +25,8 @@ html , .main {
 
 .main-test {
     width: 50%;
+    /*display:flex;
+    justify-content: center;*/
 }
 
 .image-backgroud {
@@ -41,5 +43,5 @@ html , .main {
 .test-section-below{
     display:grid;
     gap:2rem;
-    grid-template-columns:repeat(2,1fr);
+    grid-template-columns:repeat(3,1fr);
 }
